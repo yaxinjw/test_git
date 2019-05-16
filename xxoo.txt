@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update line 12
+=======
+update line f1
+>>>>>>> f1
